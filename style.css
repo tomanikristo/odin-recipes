@@ -1,0 +1,52 @@
+* {
+    background-color: wheat;
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.heading1 {
+    background-color: lightgreen;
+
+
+}
+
+.button {
+    background-color: lightgreen;
+
+
+
+}
+
+.image {
+    width: 600;
+    height: auto;
+
+}
+
+.text {
+    background-color: lightgreen;
+
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+a {
+    color: inherit;
+    outline: none;
+}
